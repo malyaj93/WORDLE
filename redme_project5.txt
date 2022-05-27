@@ -1,0 +1,9 @@
+PROJECT 3
+
+Group Members:  Malyaj Sirothia
+                Atharva Pathak
+                Daniel Nazeri
+
+project5.py#
+##############
+Runs the 2 required APIs which in turn hits the URLs of previous projects
